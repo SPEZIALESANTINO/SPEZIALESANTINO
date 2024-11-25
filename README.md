@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @SPEZIALESANTINO
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ¡Hola, soy Santino Speziale! 👋  
+Soy un programador apasionado, con experiencia en proyectos como **Cine API** y otros desarrollos orientados a bases de datos y programación en Python.
 
-<!---
-SPEZIALESANTINO/SPEZIALESANTINO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Habilidades:
+- **Lenguajes:** Python, SQL  
+- **Herramientas:** Visual Studio Code, HeidiSQL  
+- **Metodologías:** Programación orientada a objetos  
+- **Intereses:** Desarrollo de APIs, videojuegos y bases de datos.  
+
+## 🌱 Actualmente:
+- **Estudiando:** Profesorado universitario en matemáticas.  
+- **Proyectos en curso:** Cine API y explorando nuevas tecnologías.  
+
+## 📂 Mis Proyectos Destacados:
+- [Cine API](URL-del-repositorio): API para gestión de tickets de cine con SQL.  
+- Otros proyectos: [Explorar mis repositorios](URL-de-tu-perfil).  
+
+## 📫 Cómo contactarme:
+- **Email:** [tu-email@example.com](mailto:tu-email@example.com)  
+- **LinkedIn:** [Tu nombre en LinkedIn](https://linkedin.com/in/tu-nombre)  
+
+---
+¡Gracias por visitar mi perfil! 🚀
