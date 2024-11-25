@@ -8,7 +8,7 @@ Soy un programador apasionado, con experiencia en proyectos como **Cine API** y 
 - **Intereses:** Desarrollo de APIs, videojuegos y bases de datos.  
 
 ## 🌱 Actualmente:
-- **Estudiando:** Profesorado universitario en matemáticas.  
+- **Estudiando:** Profesorado universitario en Programacion.  
 - **Proyectos en curso:** Cine API y explorando nuevas tecnologías.  
 
 ## 📂 Mis Proyectos Destacados:
@@ -16,8 +16,9 @@ Soy un programador apasionado, con experiencia en proyectos como **Cine API** y 
 - Otros proyectos: [Explorar mis repositorios](URL-de-tu-perfil).  
 
 ## 📫 Cómo contactarme:
-- **Email:** [tu-email@example.com](mailto:tu-email@example.com)  
-- **LinkedIn:** [Tu nombre en LinkedIn](https://linkedin.com/in/tu-nombre)  
+- **Email:** [tu-email@example.com](spezialesantino2@gmail.com)  
+- **LinkedIn:** [Tu nombre en LinkedIn](www.linkedin.com/in/santino-speziale-35a096238
+)  
 
 ---
 ¡Gracias por visitar mi perfil! 🚀
